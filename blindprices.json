@@ -1,0 +1,26 @@
+{"blindprices":[
+  {
+    "blind_name": "Aluminum",
+    "single": "Single Aluminum: $12",
+    "double": "Double Aluminum: $18",
+    "triple": "Triple Aluminum: $24"
+  },
+  {
+    "blind_name": "Faux Wood",
+    "single": "Single Faux Wood: $14",
+    "double": "Double Faux Wood: $21",
+    "triple": "Triple Faux Wood: $28"
+  },
+  {
+    "blind_name": "Fabric",
+    "single": "Single Fabric: $14",
+    "double": "Double Fabric: $21",
+    "triple": "Triple Fabric: $28"
+  },
+  {
+    "blind_name": "Silhouette",
+    "single": "Single Silhouette: $24",
+    "double": "Double Silhouette: $36",
+    "triple": "Triple Silhouette: $48"
+  }
+]}

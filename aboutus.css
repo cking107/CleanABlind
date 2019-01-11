@@ -1,0 +1,64 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background: linear-gradient(to bottom, #AAA694 0px, #AAA694 80px, #D1D0A3 80px, #D1D0A3 100%) no-repeat;
+}
+
+.pagemargin {
+    width: 1020px;
+    margin: auto;
+}
+
+p {
+    font-family: Helvetica;
+    color: #7C6C77;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Helvetica;
+}
+
+h1 a {
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    font-family: Helvetica;
+}
+
+.navbar {
+    float: right;
+    padding: 8px;
+
+}
+
+th a {
+    font-family: Helvetica;
+    text-decoration: none;
+    color: black;
+    border-right: 1px solid #000000;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+th.navcol a {
+    border-left: 1px solid black;
+}
+
+#winston {
+    float: right;
+    margin-left: 20px;
+    width: 494px;
+    height: 307px;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
